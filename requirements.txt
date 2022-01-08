@@ -71,12 +71,4 @@ Wow_js
 Finally
 	npm start
 	
-	
-https://github.com/areya209/Django
-https://github.com/areya209/Instgram_Website
-	
-	
-	
-	
-	https://github.com/areya209/Instgram_Website
-	https://github.com/areya209/Django
+

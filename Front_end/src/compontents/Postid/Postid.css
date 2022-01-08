@@ -1,0 +1,95 @@
+.comment_post {
+  height: 560px;
+  width: 104%;
+  /* background-color: rebeccapurple; */
+  margin-top: 3%;
+  border: 2px solid lightgray;
+  /* background-color: white; */
+  margin-bottom: 45px;
+  border-radius: 10px;
+  margin-left: -4%;
+}
+
+/* .post_header{
+    display: inline;
+} */
+
+.pro_div {
+  margin-top: 4%;
+}
+
+.post_line {
+  border-top: 2px solid #808080;
+}
+
+.add {
+  text-decoration: underline;
+  padding: 8px;
+  color: rgb(57, 57, 192);
+}
+
+.text_add {
+  /* margin-top: 4%; */
+  height: 41px;
+  width: 220%;
+}
+
+.post_button {
+  background-color: inherit;
+  width: 50%;
+  border: 0px solid;
+  margin-left: -15%;
+}
+
+.comments {
+  margin-top: 2%;
+  /* background-color: red; */
+  padding-left: 8%;
+}
+
+.show_btn {
+  text-decoration: underline;
+  padding: 8px;
+  /* color: rgb(57, 57, 192); */
+  margin-top: 2%;
+}
+
+.post_like {
+  height: 6%;
+  /* background-color: red; */
+  padding: 8px;
+  border-top: 1px solid #808080;
+  margin-bottom: 1%;
+}
+
+.post_like .icons_comment,
+.post_like .icons_delete {
+  margin-left: 4%;
+}
+
+.post_like .icons2:hover {
+  color: red !important;
+}
+
+/* .post_like .icons_delete{
+    margin-left: 85%;
+} */
+
+.detail_comment {
+  height: 41px;
+  background-color: #eee;
+  margin-top: 4%;
+}
+
+.pro_comment {
+  display: inline-block;
+  /* margin-right: 5%; */
+}
+
+.comment_trash {
+  margin-left: 70%;
+}
+
+.len_likes {
+  font-size: 22px;
+}

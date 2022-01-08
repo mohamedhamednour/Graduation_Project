@@ -1,0 +1,82 @@
+
+First_Step
+	npm install
+
+------------------------------------------------------------------------------------------------------------------
+React_Router_Dom
+	 npm install react-router-dom
+
+------------------------------------------------------------------------------------------------------------------
+React_Dom
+	npm install react react-dom
+
+------------------------------------------------------------------------------------------------------------------
+Axios
+	npm install axios
+
+------------------------------------------------------------------------------------------------------------------
+Bootstrap
+	npm install reactstrap react react-dom
+	npm install --save bootstrap
+
+------------------------------------------------------------------------------------------------------------------
+Bootstrap_Grid
+	npm install react-bootstrap-grid-component
+
+------------------------------------------------------------------------------------------------------------------
+jQuery
+	npm install jquery --save
+
+------------------------------------------------------------------------------------------------------------------
+Fontawesome
+	npm i -S @fortawesome/react-fontawesome
+	npm i -S @fortawesome/free-solid-svg-icons
+	npm i -S @fortawesome/fontawesome-svg-core @fortawesome/react-fontawesome
+	npm i --save @fortawesome/free-brands-svg-icons 
+
+------------------------------------------------------------------------------------------------------------------
+Facebook Fontawesome
+	npm install --save react-facebook-login
+
+------------------------------------------------------------------------------------------------------------------
+Link Hash
+	npm install --save react-router-hash-link
+
+------------------------------------------------------------------------------------------------------------------
+Modal Material
+	npm install @material-ui/core
+	npm install @material-ui/core @material-ui/icons
+
+------------------------------------------------------------------------------------------------------------------
+JWT_Decode
+	npm install jwt-decode
+	
+------------------------------------------------------------------------------------------------------------------
+Dark Mode
+	npm install styled-components
+	npm install styled-components react-icons
+
+------------------------------------------------------------------------------------------------------------------
+Follow_UnFollow
+	npm install react-follow-unfollow-modal
+
+------------------------------------------------------------------------------------------------------------------
+Wow_js
+	 npm install wowjs
+	 
+	 
+	
+
+------------------------------------------------------------------------------------------------------------------
+Finally
+	npm start
+	
+	
+https://github.com/areya209/Django
+https://github.com/areya209/Instgram_Website
+	
+	
+	
+	
+	https://github.com/areya209/Instgram_Website
+	https://github.com/areya209/Django

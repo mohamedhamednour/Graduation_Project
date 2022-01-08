@@ -1,0 +1,31 @@
+{% extends 'project/base.html' %}
+{% block name %}
+
+
+<h1></h1>
+<h1></h1>
+<h1></h1>
+
+<table class="table">
+  <thead>
+    <tr>
+      <th scope="col">name</th>
+      <th scope="col">email</th>
+      <th scope="col">firsname</th>
+      <th scope="col">lastname</th>
+         <th scope="col">phone</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">{{user.username}}</th>
+      <td>{{user.email}}</td>
+      <td>{{user.first_name}}</td>
+      <td>{{user.last_name}}</td>
+        <td>01000000000</td>
+    </tr>
+
+
+  </tbody>
+</table>
+{% endblock name %}

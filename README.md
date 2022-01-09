@@ -8,8 +8,11 @@ https://github.com/mohamedhamednour/Graduation_Project/blob/main/requirements.tx
 
  requirements install Django 
  
- pip install djangorestframework
- pip install django-rest-knox
- pip install djangorestframework-simplejwt
-pip install django-cors-headers
+ pip install djangorestframework   ,
+ 
+ pip install django-rest-knox ,
+ 
+ pip install djangorestframework-simplejwt ,
+ 
+pip install django-cors-headers ,
 
